@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "oswaldb22" },
+  "plugins": [
+    {
+      "name": "context-meter",
+      "source": "./plugins/context-meter",
+      "description": "Shows the context window's fill under the prompt; click it for the full breakdown"
+    }
+  ]
+}

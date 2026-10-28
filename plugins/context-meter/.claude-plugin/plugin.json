@@ -1,0 +1,6 @@
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "Shows the context window's fill under the prompt; click it for the full breakdown",
+  "types": "./types/index.d.ts"
+}
