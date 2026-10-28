@@ -31,3 +31,7 @@ From a shell:
 ```
 claude plugin install context-meter --marketplace oswaldb22/claude-mods
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
